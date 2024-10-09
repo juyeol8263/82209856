@@ -20,7 +20,7 @@ spec:
             readOnly: true
                           
       volumes:
-      - name: "99999598-volume"
+      - name: "82209856-volume"
         persistentVolumeClaim:
           claimName: cepg-aa-std-pvc
       - name: application-properties
